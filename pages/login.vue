@@ -8,7 +8,7 @@
       Password
       <input name="password" type="password" autocomplete="current-password" />
     </label>
-    <button formaction="login?default">Log in</button>
+    <button>Log in</button>
     <button formaction="login?_register">Register</button>
   </form>
 </template>
