@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "HOST=0.0.0.0 nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.7.0"
+  },
+  "resolutions": {
+    "h3": "1.8.1",
+    "nitropack": "2.6.2",
+    "nuxt": "3.7.0"
+  },
+  "dependencies": {
+    "@hebilicious/form-actions-nuxt": "^0.2.0"
+  }
+}
