@@ -4,6 +4,8 @@ Working Starter example
 
 ## NOTES
 
+## DOES NOT WORK IN STACK BLITZ
+
 ### Install the form-actions module from NPM.
 
 when you click the copy button it copies everything 
