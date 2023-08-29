@@ -4,7 +4,8 @@ Working Starter example
 
 ## NOTES
 
-## DOES NOT WORK IN STACK BLITZ
+### DOES NOT WORK IN STACK BLITZ
+ will have to recheck all of the issue below because they happened in stackblitz. When running in stackblitz, none of the formData was getting passed to the server
 
 ### Install the form-actions module from NPM.
 
